@@ -1,4 +1,4 @@
 
 index
 
-[read me test](..\readme.md)
+[read me test](readme.md)
