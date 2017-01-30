@@ -1,4 +1,4 @@
 
 index
 
-<!-- <a href="zliwei.com\reademe.md">read me test</a> -->
+[read me test](zliwei.com\reademe.md)
