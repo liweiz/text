@@ -1,4 +1,4 @@
 
 index
 
-<a href=".\reademe.md">read me test</a>
+<a href="zliwei.com\reademe.md">read me test</a>
