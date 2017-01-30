@@ -1,4 +1,4 @@
 
 index
 
-[read me test](zliwei.com\reademe.md)
+[read me test](.\reademe.md)
